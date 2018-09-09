@@ -1,1 +1,24 @@
 Test Git quick start demo
+
+
+Username for 'https://github.com': prak222
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 319 bytes | 53.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/prak222/mygit-demo.git
+   1aae523..35488fb  master -> master
+
+windowsxpx@windowsxpx-PC MINGW64 ~/projects/mygit-demo (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+windowsxpx@windowsxpx-PC MINGW64 ~/projects/mygit-demo (master)
+$ cd ..
+
+windowsxpx@windowsxpx-PC MINGW64 ~/projects
