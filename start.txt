@@ -22,3 +22,17 @@ windowsxpx@windowsxpx-PC MINGW64 ~/projects/mygit-demo (master)
 $ cd ..
 
 windowsxpx@windowsxpx-PC MINGW64 ~/projects
+
+
+        testnontrcakedfiles.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+windowsxpx@windowsxpx-PC MINGW64 ~/projects/mygit-demo (master)
+$ git ls-files
+README.md
+end.txt
+start.txt
+
+windowsxpx@windowsxpx-PC MINGW64 ~/projects/mygit-demo (master)
+$   npp start.txt
